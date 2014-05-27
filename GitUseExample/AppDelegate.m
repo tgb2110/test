@@ -14,7 +14,7 @@
 {
     // Override point for customization after application launch.
     NSLog(@"application did finish launching");
-    
+    //comment for GitHub
     return YES;
 }
 							
